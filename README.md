@@ -19,7 +19,7 @@
   <td><img src="https://github.com/satejsoman/glitchcraft/blob/master/logo/logo.png" width="192"></td>
   <td>  
     <div><a href="https://github.com/satejsoman/glitchcraft"><h3><code>glitchcraft</code></h3></a></div>
-    <div> collection of glitchy, generative, and procedural generation image manipulation techniques in python
+    <div> collection of glitchy, generative, and procedural image manipulation techniques in python
 </td>
 </tr>  
 </table>
