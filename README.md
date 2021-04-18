@@ -1,9 +1,7 @@
 # key projects
 
 <span style="float:left">
-<div> 
-  <img src="https://github.com/mansueto-institute/prclz/blob/master/docs/logo.svg" width="192"> 
-</div>
+<img src="https://github.com/mansueto-institute/prclz/blob/master/docs/logo.svg" width="192"> 
 <div>
   <div>
     <a href="https://github.com/mansueto-institute/prclz"><h><code>prclz</code></h3></a>
