@@ -3,13 +3,12 @@
 <span style="float:left">
 <img src="https://github.com/mansueto-institute/prclz/blob/master/docs/logo.svg" width="192"> 
 <div>
-  <div>
-    <a href="https://github.com/mansueto-institute/prclz"><h><code>prclz</code></h3></a>
-  </div>
+  <a href="https://github.com/mansueto-institute/prclz"><h><code>prclz</code></h3></a>
   <div>
   toolkit for quantifying urban infrastructure access from open source geospatial data
   </div>
 </div>
+</span>
 
 ---
 
