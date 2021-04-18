@@ -1,9 +1,17 @@
 # key projects
 
-### [`prclz`](https://github.com/mansueto-institute/prclz) 
-
-<img src="https://github.com/mansueto-institute/prclz/blob/master/docs/logo.svg" width="192"> 
-toolkit for quantifying urban infrastructure access from open source geospatial data
+<span>
+<div style="float: left"> 
+  <img src="https://github.com/mansueto-institute/prclz/blob/master/docs/logo.svg" width="192" > 
+</div>
+<div style="float:center">
+  <div>
+    <a href="https://github.com/mansueto-institute/prclz"><h><code>prclz</code></h3></a>
+  </div>
+  <div>
+  toolkit for quantifying urban infrastructure access from open source geospatial data
+  </div>
+</div>
 
 ---
 
