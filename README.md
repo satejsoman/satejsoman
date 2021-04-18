@@ -8,11 +8,7 @@
     <div>toolkit for quantifying urban infrastructure access from open source geospatial data</div>
 </td>
 </tr>  
-</table>
 
----
-
-<table>
 <tr>
   <td><img src="https://github.com/mansueto-institute/adaptive-control/blob/master/docs/logo.svg" width="192"></td>
   <td>  
@@ -20,11 +16,7 @@
     <div> Bayesian estimation and stochastic simulation framework for evaluating public health policies </div>
 </td>
 </tr>  
-</table>
 
----
-
-<table>
 <tr>
   <td><img src="https://github.com/satejsoman/glitchcraft/blob/master/logo/logo.png" width="192"></td>
   <td>  
