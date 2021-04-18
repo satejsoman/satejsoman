@@ -4,8 +4,9 @@
 <tr>
   <td><img src="https://github.com/mansueto-institute/prclz/blob/master/docs/logo.svg" width="192"></td>
   <td>  
-    <a href="https://github.com/mansueto-institute/prclz"><h><code>prclz</code></h3></a>
-    toolkit for quantifying urban infrastructure access from open source geospatial data </td>
+    <div><a href="https://github.com/mansueto-institute/prclz"><h><code>prclz</code></h3></a></div>
+    <div>toolkit for quantifying urban infrastructure access from open source geospatial data</div>
+</td>
 </tr>  
 </table>
 
