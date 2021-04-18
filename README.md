@@ -11,7 +11,7 @@
 <tr height="182">
   <td><img src="https://github.com/mansueto-institute/adaptive-control/blob/master/docs/logo.svg" width="192"></td>
   <td>  
-    <h1><a href="https://github.com/mansueto-institute/adaptive-control">adaptive-control</a></h1>
+    <h1><a href="https://github.com/COVID-IWG/epimargin">epimargin</a></h1>
     <div> Bayesian estimation and stochastic simulation framework for evaluating public health policies </div>
 </td>
 </tr>  <tr></tr>
